@@ -1,13 +1,13 @@
 # OS from Scratch
 
-Carlos Fenollosa @cfenollosa님의 [os-tutorial](https://github.com/cfenollosa/os-tutorial), University of Birmingham의 Nick Blundell의 [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf), OS-Dev Wiki의 [Creating an Operating System](https://wiki.osdev.org/Creating_an_Operating_System#Keyboard)을 참고해 공부한 내용을 정리한 노트입니다. 코드는 cfenollosa님의 os-tutorial을 기반으로 하고 os-tutorial에서 설명하지 않은 필요한 이론들을 Nick Blundell님의 자료와, OS-Dev Wiki를 참고해 [저의 티스토리](https://jschang.tistory.com/category/OS/OS%20from%20Scratch)에 한국어로 정리하였습니다. 
+Carlos Fenollosa @cfenollosa님의 [os-tutorial](https://github.com/cfenollosa/os-tutorial), University of Birmingham의 Nick Blundell님의 [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf), OS-Dev Wiki의 [Creating an Operating System](https://wiki.osdev.org/Creating_an_Operating_System#Keyboard)을 참고해 공부한 내용을 정리한 노트입니다. 코드는 cfenollosa님의 os-tutorial을 기반으로 하고 os-tutorial에서 설명하지 않은 필요한 이론들을 Nick Blundell님의 자료와, OS-Dev Wiki를 참고해 [저의 티스토리](https://jschang.tistory.com/category/OS/OS%20from%20Scratch)에 한국어로 정리하였습니다. 
 
 ## Requirements
-본 자료를 이해하기 위해서는 다음 지식이 필요합니다.
+본 자료를 이해하기 위해서는 다음 지식이 필요한 것 같습니다.
 * 기초적인 C언어 지식 (함수, 포인터, 메모리)
 * 약간의 Assembly 지식 (mov, 레지스터, Label 사용, jmp, loop)
     * 자세한 내용들은 코드가 등장할 때마다 설명합니다
-* 열정(!)
+* 열정!
 
 ## How to use this tutorial
 본 자료를 100% 활용하기 위해서는 [티스토리](https://jschang.tistory.com/category/OS/OS%20from%20Scratch)의 포스트 번호 순서를 따라 이론과 코드를 익히고, 더 자세한 코드는 해당 포스트 번호의 cfenollosa님의 [os-tutorial](https://github.com/cfenollosa/os-tutorial) 코드를 참고하면 됩니다.
