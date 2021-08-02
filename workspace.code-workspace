@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"screen.h": "c",
+			"stdint.h": "c"
+		}
+	}
+}
